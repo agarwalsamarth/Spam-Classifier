@@ -1,5 +1,5 @@
 # Spam-Classifier
 Classifies whether it is a spam or non-spam.
 
-#Accuracy
+# Accuracy
 98.56%
